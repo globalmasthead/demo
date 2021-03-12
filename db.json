@@ -1,6 +1,6 @@
 {
   "signedIn": {
-    accountFlyOut: [
+    "accountFlyOut": [
       {
         "title": "Dell EMC Preferences",
         "titleUrl": "https://www.dell.com/support/companyadmin/"
