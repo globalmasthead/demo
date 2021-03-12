@@ -1,14 +1,27 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "signedIn": {
+    accountFlyOut: [
+      {
+        "title": "Dell EMC Preferences",
+        "titleUrl": "https://www.dell.com/support/companyadmin/"
+      },
+      {
+        "title": "My Account",
+        "titleUrl": "https://www.dell.com/myaccount/en-us/work"
+      }
+    ],
+    "userColorCode": "green",
+    "premierUrl": "https://www.dell.com/account",
+    "isPremierUser": true,
+    "siteSwitcher": [
+      {
+        "title": "Dell.com",
+        "titleUrl": "https://www.dell.com/en-us"
+      },
+      {
+        "title": "Premier",
+        "titleUrl": "https://www.dell.com/account"
+      }
+    ]
   }
 }
